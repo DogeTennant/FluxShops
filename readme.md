@@ -4,7 +4,7 @@
 
 FluxShops reimagines the chest shop experience from the ground up. Every action - creating a shop, managing stock, setting sales, configuring taxes, blacklisting players, adding co-owners - is handled through polished, intuitive GUIs. No commands to memorize, no configuration files to hand-edit in-game. Just right-click.
 
-Built exclusively for **Paper 1.21+** with modern APIs: `TextDisplay` and `ItemDisplay` entities for holograms, MiniMessage for all text, and fully async database operations.
+Built exclusively for **Paper 26.1+** with modern APIs: `TextDisplay` and `ItemDisplay` entities for holograms, MiniMessage for all text, and fully async database operations.
 
 ---
 
