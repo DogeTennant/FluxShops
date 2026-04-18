@@ -187,16 +187,16 @@ See [`config.yml`](config.yml) for the full annotated reference. Key sections:
 
 ## Wiki
 
-- [Configuration Reference](../../wiki/Configuration)
-- [Permissions](../../wiki/Permissions)
-- [Tax System](../../wiki/Tax-System)
-- [Co-Owners & Revenue Sharing](../../wiki/Co-Owners)
-- [Price Limits](../../wiki/Price-Limits)
-- [Shop Browser & Expiry](../../wiki/Shop-Browser)
-- [Holograms](../../wiki/Holograms)
-- [PlaceholderAPI](../../wiki/Placeholders)
-- [Storage & Migration](../../wiki/Storage)
-- [Translations](../../wiki/Translations)
+- [Configuration Reference](https://github.com/DogeTennant/FluxShops/wiki/Configuration)
+- [Permissions](https://github.com/DogeTennant/FluxShops/wiki/Permissions)
+- [Tax System](https://github.com/DogeTennant/FluxShops/wiki/Tax-System)
+- [Co-Owners & Revenue Sharing](https://github.com/DogeTennant/FluxShops/wiki/Co%E2%80%90Owners)
+- [Price Limits](https://github.com/DogeTennant/FluxShops/wiki/Price-Limits)
+- [Shop Browser & Expiry](https://github.com/DogeTennant/FluxShops/wiki/Shop-Browser)
+- [Holograms](https://github.com/DogeTennant/FluxShops/wiki/Holograms)
+- [PlaceholderAPI](https://github.com/DogeTennant/FluxShops/wiki/Placeholders)
+- [Storage & Migration](https://github.com/DogeTennant/FluxShops/wiki/Storage)
+- [Translations](https://github.com/DogeTennant/FluxShops/wiki/Translations)
 
 ---
 
