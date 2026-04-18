@@ -113,9 +113,10 @@ Built exclusively for **Paper 26.1+** with modern APIs: `TextDisplay` and `ItemD
 
 | Requirement | Version |
 |---|---|
-| Paper | 1.21+ (API 26.1+) |
-| Java | 21+ |
-| Vault | Any current release |
+| Spigot, Paper, Purpur | 26.1+ (API 26.1+) |
+| Java | 25+ |
+| Vault or Treasury | Any current release |
+| Economy plugin | 26.1+ |
 
 **Optional:** PlaceholderAPI, WorldGuard, Treasury
 
