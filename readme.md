@@ -169,7 +169,7 @@ Additional aliases configurable in `config.yml` under `command-aliases`.
 
 ## Configuration
 
-See [`config.yml`](config.yml) for the full annotated reference. Key sections:
+See [`config.yml`](https://github.com/DogeTennant/FluxShops/wiki/Configuration) for the full annotated reference. Key sections:
 
 - `storage` - SQLite vs MySQL, connection pool settings
 - `shops` - max shops per player, allow BUY shops, teleport cost, page sizes
